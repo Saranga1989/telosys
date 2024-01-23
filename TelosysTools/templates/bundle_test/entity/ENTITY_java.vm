@@ -1,0 +1,5 @@
+package ${target.javaPackageFromFolder($SRC)};
+ 
+public class ${entity.name} {
+
+}
